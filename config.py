@@ -8,7 +8,7 @@ import logging
 API_ID = 29171167 # Replace with your API_ID 
 API_HASH = "7ea2149629e445936619f06a3c0dc716" # Replace with your HASH
 BOT_TOKEN = "" # Replace with your BOT TOKEN
-BOT_UN = "comick_dlbot" # Replace with your BOT Username Without @
+BOT_UN = "akmoviezhub_bot" # Replace with your BOT Username Without @
 
 
 # MongoDB setup
