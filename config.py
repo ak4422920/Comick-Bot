@@ -18,7 +18,7 @@ DB_NAME = "Cluster0" # Do Need To Change This
 # Admin and Channel details
 ADMIN = 7251898668  # Replace with your Telegram user ID
 CHANNEL = "-1002442422204" # Replace with your force sub channel username. add bot as admin in yourforce sub channel before start the bot  
-DB_CHANNEL_UN = ""  # Replace with your File store channel username .Must Be Public
+DB_CHANNEL_UN = "moviesmod_moviesverse"  # Replace with your File store channel username .Must Be Public
 IS_NOTIFY = "True"   # "True" or "False". If "True" Then It Will Send New Aired Chapter Notification In DM
 
 # Download directory
